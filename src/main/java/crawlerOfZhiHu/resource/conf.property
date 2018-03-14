@@ -1,8 +1,9 @@
-loginUrl=https://www.zhihu.com/signup?next=%2F
-outPutFileDirectryRootPath=D:/zhihu
+url=http://www.mm131.com/qingchun/
+outPutFileDirectryRootPath=D:/meinv/
+logOutPutFileDirectryPah=D:/meinv/log/
 
-login.user=
-login.password=
+userName=
+password=
 
 
 
